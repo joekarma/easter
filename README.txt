@@ -6,7 +6,7 @@ year Easter (and related holidays) falls on. I converted an algorithm
 I found online into Common Lisp. I don't really understand the algorithm,
 to be perfectly honest, but it does seem to work.
 
-Hope this proves useful for someone other than myself!
+Hope this is proven useful to someone other than myself!
 
 Exported functions include:
 
